@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BurglachOK
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on noone for now
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate with someone for now
 - 📫 How to reach me call me or write me an Email
 - 😄 Pronouns: you
 - ⚡ Fun fact: I like trains
